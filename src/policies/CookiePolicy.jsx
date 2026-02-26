@@ -18,7 +18,7 @@ const CookiePolicy = () => {
             </span>
           </div>
           <h1 className="text-4xl md:text-6xl font-black text-gray-950 tracking-tight leading-tight mb-6">
-            Cookie policy for <span className="text-indigo-600 italic font-medium lowercase">victoryappliance.</span>
+            Cookie policy for <span className="text-indigo-600 italic font-medium">Victory Appliance.</span>
           </h1>
           <p className="text-gray-400 text-sm font-medium italic">Last updated: February 27, 2026</p>
         </div>
@@ -130,7 +130,7 @@ const CookiePolicy = () => {
             <p>If you have questions or concerns about this Cookie Policy or our use of cookies, you may contact us at:</p>
             <address className="not-italic bg-indigo-50 p-8 rounded-2xl border border-indigo-100 mt-4 leading-relaxed font-bold text-gray-900">
               Victory Appliance<br />
-              2066 Fairview Ave, Prattville, AL 36066, USA<br />
+              2451 N Sherwood Forest Dr, Baton Rouge, LA 70815, USA<br />
               United States<br />
               Email: <a href="mailto:info@victoryappliance.shop" className="text-indigo-600">info@victoryappliance.shop</a>
             </address>

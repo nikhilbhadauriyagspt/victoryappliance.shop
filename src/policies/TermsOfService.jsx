@@ -17,7 +17,7 @@ const TermsOfService = () => {
             </span>
           </div>
           <h1 className="text-4xl md:text-6xl font-black text-gray-950 tracking-tight leading-tight mb-6">
-            Terms of service for <span className="text-indigo-600 italic font-medium lowercase">victoryappliance.</span>
+            Terms of service for <span className="text-indigo-600 italic font-medium">Victory Appliance.</span>
           </h1>
           <p className="text-gray-400 text-sm font-medium italic">Last updated: February 27, 2026</p>
         </div>
@@ -199,7 +199,7 @@ const TermsOfService = () => {
             <h2 className="text-2xl font-bold text-gray-950 mb-4 tracking-tight uppercase">11. GOVERNING LAW</h2>
             <p>
               These Terms of Service and your use of the Site are governed by and construed in accordance with the laws
-              of the State of Ohio applicable to agreements made and to be entirely performed within the State of Ohio,
+              of the State of Louisiana applicable to agreements made and to be entirely performed within the State of Louisiana,
               without regard to its conflict of law principles.
             </p>
           </section>
@@ -208,7 +208,7 @@ const TermsOfService = () => {
             <h2 className="text-2xl font-bold text-gray-950 mb-4 tracking-tight uppercase">12. DISPUTE RESOLUTION</h2>
             <p>
               Any legal action of whatever nature brought by either you or us (collectively, the "Parties" and
-              individually, a "Party") shall be commenced or prosecuted in the state and federal courts located in Ohio,
+              individually, a "Party") shall be commenced or prosecuted in the state and federal courts located in Louisiana,
               and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction and forum non
               conveniens with respect to venue and jurisdiction in such state and federal courts.
             </p>
@@ -337,7 +337,7 @@ const TermsOfService = () => {
             <p>In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:</p>
             <address className="not-italic bg-gray-50 p-8 rounded-2xl border border-gray-100 mt-4 leading-relaxed font-bold text-gray-900">
               Victory Appliance<br />
-              2066 Fairview Ave, Prattville, AL 36066, USA<br />
+              2451 N Sherwood Forest Dr, Baton Rouge, LA 70815, USA<br />
               United States<br />
               Email: <a href="mailto:info@victoryappliance.shop" className="text-indigo-600 hover:underline">info@victoryappliance.shop</a>
             </address>

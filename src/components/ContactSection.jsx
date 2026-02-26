@@ -83,8 +83,8 @@ const ContactSection = () => {
                </div>
                <h3 className="text-xl font-bold text-gray-950 mb-2">Visit Office</h3>
                <span className="text-[13px] font-bold text-gray-400 leading-relaxed uppercase tracking-widest block">
-                 2066 Fairview Ave, Prattville,<br />
-                 AL 36066, USA
+                 2451 N Sherwood Forest Dr, Baton Rouge,<br />
+                 LA 70815, USA
                </span>
             </div>
           </div>

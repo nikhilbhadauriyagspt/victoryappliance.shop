@@ -94,8 +94,8 @@ const Footer = () => {
                 </div>
                 <div>
                   <div className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">Physical Hub</div>
-                  <div className="text-[11px] font-bold text-gray-950 leading-tight">
-                    2066 Fairview Ave, Prattville,<br />AL 36066, USA
+                  <div className="text-sm font-bold text-gray-950 tracking-tight">
+                    2451 N Sherwood Forest Dr, Baton Rouge, LA 70815, USA
                   </div>
                 </div>
               </div>
